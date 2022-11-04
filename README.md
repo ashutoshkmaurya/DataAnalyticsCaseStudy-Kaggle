@@ -1,3 +1,3 @@
 # DataAnalyticsCaseStudy-Kaggle
 
-Check full file on https://www.kaggle.com/ashutoshkm
+Check complete file with output on https://www.kaggle.com/ashutoshkm
